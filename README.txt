@@ -12,13 +12,13 @@ Basic Git Workflow Description:
 Forking Workflow Description:    
   Forks are commonly used to manage the different versions of projects and help with software development for large teams. Smaller teams or people can fork the master repository, make independent changes, and make a pull request for the admin to decide if they want to incorporate the changes or not. A great use case for the forking process is to propose changes to a bug you have found in a project or to work on long term 
 
-Key Differences from basic workflow:
+Key Differences from Basic Workflow:
   - Everyone works on the repository independently rather than collaboratively
   - You don’t make push requests, you make pull requests
   - The owner decides whether to merge individual work into the main project
   - Anyone can work on the project/// open source
 
-Link to your Git example repository:  
+Link to your Git Example Repository:  
 
   https://github.com/Hiesh21/Kandula_Agarwal_Kaura/edit/master/README.txt
 
